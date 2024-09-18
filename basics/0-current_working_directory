@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "The current working directory: pwd"
+pwd /alu-shell/basics/0-current_working_directory
