@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello World, reporting live from planet earth" | rev
+echo "#input" | rev
